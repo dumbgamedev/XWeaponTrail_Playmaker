@@ -2,6 +2,12 @@
 
 These c# files have been created to be used in conjunction with the Unity3d asset Xweapon Trail found on the Unity Asset Store.
 
+## How You Can Help
+
+This package was partially funded through generous donors of the Dumb Game Dev Patreon Account: https://www.patreon.com/playmaker
+
+A few dollars a month in support go a long way in assisting me develop more Playmaker actions that are releases completely for free under the license below.
+
 
 ## License
 
