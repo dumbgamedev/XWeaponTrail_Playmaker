@@ -6,8 +6,7 @@ These c# files have been created to be used in conjunction with the Unity3d asse
 
 This package was partially funded through generous donors of the Dumb Game Dev Patreon Account: https://www.patreon.com/playmaker
 
-A few dollars a month in support go a long way in assisting me develop more Playmaker actions that are releases completely for free under the license below.
-
+A few dollars a month in support go a long way in assisting me develop more Playmaker actions that are released completely for free under the license below. **For more Playmaker action sets released for free, please consider pledging a few dollars a month** 
 
 ## License
 
